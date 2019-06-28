@@ -8,9 +8,9 @@ url_for_check = "https://www.royalroad.com/fictions/latest-updates"
 
 payload = {
 	"ReturnUrl": "https://www.royalroad.com/home",
-	"Email": "alsavidi37@gmail.com",
-	"Password": "ghjgtkkth99",
-	"__RequestVerificationToken": "CfDJ8K87a3RG_BVIkC-CWyVhe9FNXYD2uGZ5fXsRbJv-Vb62j2p2CP4gsVizrz3cB6SWJ-UwAzgE-q-HyVGqNfox2kbpU1YG5wQr-YiMXcXz3UvzLnxUoRjMT7tTWaNhs5Iaf3OoBAeWnJAgwOjadvg_MdQ5BWtd9z8j41pwggsS9nbHi6LyFF9sqFOlA8_7721EXw",
+	"Email": "***********",
+	"Password": "********",
+	"__RequestVerificationToken": "**************",
 	"Remember" : "false"
 }
 i = 0
